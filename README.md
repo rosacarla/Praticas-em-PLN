@@ -27,3 +27,14 @@ Contato: rosa.carla@pucpr.edu.br
 [MIT](https://choosealicense.com/licenses/mit/)  
 
 ---  
+
+#### 🔗 LINKS ÚTEIS  
+
+- [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
+- [Stanford - Information Retrieval Book - Chapter 2](https://nlp.stanford.edu/IR-book/)
+- [Técnicas de pré-processamento de Texto - Prof. Fernando Vieira da Silva](https://www.kaggle.com/fernandojvdasilva/aplica-es-em-nlp-aula-02)
+- [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
+
+---  
+
+
