@@ -1,6 +1,10 @@
 # 🔤Práticas em PLN
 Repositório reúne diversos notebooks com atividades práticas em Processamento de Linguagem Natural com a linguagem Python.  
 
+<p align='center'>
+  <img src='https://github.com/rosacarla/Praticas-em-PLN/blob/main/images/nlp-header.jpeg' height=380 width=880> 
+</p>
+
 ---  
 
 #### 💻NOTEBOOKS DO GOOGLE COLAB
