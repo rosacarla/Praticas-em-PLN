@@ -1,5 +1,5 @@
 # 🔤Práticas em PLN
-Repositório reúne diversos notebooks com atividades práticas em Processamento de Linguagem Natural com a linguagem Python.  
+Repositório reúne diversos notebooks com atividades práticas em Processamento de Linguagem Natural com a linguagem Python, os quais foram elaborados durante atividades dormativas do curso superior Tecnologia em Inteligência Artificial Aplicada da PUCPR.
 
 <p align='center'>
   <img src='https://github.com/rosacarla/Praticas-em-PLN/blob/main/images/nlp-header.jpeg' height=380 width=880> 
