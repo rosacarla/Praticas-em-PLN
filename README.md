@@ -13,16 +13,14 @@ Repositório reúne diversos notebooks com atividades práticas em Processamento
 2. [Expressões Regulares em Python](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Expressoes_regulares_em_Python.ipynb)
 3. [Expressões Regulares em Python - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Expressoes_regulares_em_Python%5BGabarito%5D.ipynb)
 4. [Processando textos usando o NLTK](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Processando_textos_usando_o_NLTK.ipynb)
-5. [Dicionário com NLTK Wordnet]()
-6. [Similaridade Léxica]()
-7. [Similaridade Léxica - Gabarito]()
-8. [Similaridade Semântica]()
-9. [Representação vetorial de textos - Bag of Words]()
-10. [Representação vetorial de textos - Bag of Words - Gabarito]()
-11. [Representação vetorial de textos – TF-IDF - Gabarito]()
+5. [Dicionário com NLTK Wordnet](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S3_Dicionario_NLTK_wordnet.ipynb)
+6. [Similaridade Léxica](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S3_Similaridade_Lexica.ipynb)
+7. [Similaridade Léxica - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S3_Similaridade_L%C3%A9xica_%5BGABARITO%5D.ipynb)
+8. [Similaridade Semântica](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S3_Similaridade_Semantica.ipynb)
+9. [Representação vetorial de textos - Bag of Words](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_Bag_of_words.ipynb)
+10. [Representação vetorial de textos - Bag of Words - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_Bag_of_words%5BGABARITO%5D.ipynb)
+11. [Representação vetorial de textos – TF-IDF](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_%E2%80%93_TF_IDF.ipynb)
 12. [...]()
-13. [...]()
-14. [...}()
 
 ---   
 #### ✍️ AUTORA  
@@ -45,5 +43,3 @@ Contato: rosa.carla@pucpr.edu.br
 - [101 NLP Exercises (using modern libraries)](https://www.machinelearningplus.com/nlp/nlp-exercises/)
 
 ---  
-
-
