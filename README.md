@@ -13,7 +13,16 @@ Repositório reúne diversos notebooks com atividades práticas em Processamento
 2. [Expressões Regulares em Python](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Expressoes_regulares_em_Python.ipynb)
 3. [Expressões Regulares em Python - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Expressoes_regulares_em_Python%5BGabarito%5D.ipynb)
 4. [Processando textos usando o NLTK](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S2_Processando_textos_usando_o_NLTK.ipynb)
-5. (...)
+5. [Dicionário com NLTK Wordnet]()
+6. [Similaridade Léxica]()
+7. [Similaridade Léxica - Gabarito]()
+8. [Similaridade Semântica]()
+9. [Representação vetorial de textos - Bag of Words]()
+10. [Representação vetorial de textos - Bag of Words - Gabarito]()
+11. [Representação vetorial de textos – TF-IDF - Gabarito]()
+12. [...]()
+13. [...]()
+14. [...}()
 
 ---   
 #### ✍️ AUTORA  
