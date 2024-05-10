@@ -4,7 +4,7 @@ Repositório reúne diversos notebooks com atividades práticas em Processamento
 <p align='center'>
   <img src='https://github.com/rosacarla/Praticas-em-PLN/blob/main/images/nlp-header.jpeg' height=380 width=880> 
 </p>  
-Crédito da imagem: Gerada com a ferramenta de inteligÊncia artificial Copilot.  
+Crédito da imagem: Gerada com a ferramenta de inteligência artificial Copilot.  
 
 ---  
 
