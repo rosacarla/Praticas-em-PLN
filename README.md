@@ -20,8 +20,12 @@ Repositório reúne diversos notebooks com atividades práticas em Processamento
 9. [Representação vetorial de textos - Bag of Words](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_Bag_of_words.ipynb)
 10. [Representação vetorial de textos - Bag of Words - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_Bag_of_words%5BGABARITO%5D.ipynb)
 11. [Representação vetorial de textos – TF-IDF](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Representa%C3%A7%C3%A3o_vetorial_de_textos_%E2%80%93_TF_IDF.ipynb)
-12. [...]()
-
+12. [Extração de características de um texto com Bag of Words](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Desafio_BagOfWords_com_comentarios.ipynb)
+13. [Análise de comentários negativos dos consumidores com TF-IDF](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Desafio_TF_IDF.ipynb)
+14. [Análise de comentários negativos dos consumidores com TF-IDF - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Desafio_TF_IDF%5BGabarito%5D.ipynb)
+15. [Problemas em Processamento de Linguagem Natural](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_ATIVIDADE_SOMATIVA_1_PLN.ipynb)
+16. []()
+17. []()
 ---   
 #### ✍️ AUTORA  
 Carla Edila Silveira  
