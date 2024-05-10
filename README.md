@@ -24,8 +24,11 @@ Repositório reúne diversos notebooks com atividades práticas em Processamento
 13. [Análise de comentários negativos dos consumidores com TF-IDF](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Desafio_TF_IDF.ipynb)
 14. [Análise de comentários negativos dos consumidores com TF-IDF - Gabarito](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_Desafio_TF_IDF%5BGabarito%5D.ipynb)
 15. [Problemas em Processamento de Linguagem Natural](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S4_ATIVIDADE_SOMATIVA_1_PLN.ipynb)
-16. []()
-17. []()
+16. [Sumarização de textos](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S5_PLN_Sumariza%C3%A7%C3%A3o_de_textos.ipynb)
+17. [Gerador de resumos de texto com Python](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S5_pln_gerador_de_resumos.ipynb)
+18. [Modelagem de tópicos – Latent Dirichlet Allocation (LDA)](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S5_formativa_pln_Modelagem_de_t%C3%B3picos_LDA.ipynb)
+19. [Teste de algoritmo com Gensim](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S6_teste_exercicio_gensim.ipynb)
+20. [Treinamento de modelo Word2Vec - Thrones2Vec](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S6_formativa_pln_Thrones2Vec.ipynb)
 ---   
 #### ✍️ AUTORA  
 Carla Edila Silveira  
