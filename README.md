@@ -31,6 +31,8 @@ Crédito da imagem: Gerada com a ferramenta de inteligência artificial Copilot.
 19. [Teste de algoritmo com Gensim](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S6_teste_exercicio_gensim.ipynb)
 20. [Treinamento de modelo Word2Vec - Thrones2Vec](https://github.com/rosacarla/Praticas-em-PLN/blob/main/notebooks-python-nlp/S6_formativa_pln_Thrones2Vec.ipynb)
 21. [Como criar um chatGPT para seus próprios arquivos?](https://github.com/rosacarla/Praticas-em-PLN/blob/main/%5BLLMs%5D_Respondendo_perguntas_sobre_arquivos.ipynb)
+22. [Question-answering com o BERT](https://github.com/rosacarla/Praticas-em-PLN/blob/main/Question_answering_com_BERT.ipynb)
+
 ---   
 #### ✍️ AUTORA  
 Carla Edila Silveira  
